@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿/*
  * Movement script for player sprite. 
  * Code was created with aid from Blackthornprod's youtube page
@@ -15,6 +16,7 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+
     public float speed;
     private Rigidbody2D rb;
     private Vector2 moveVelocity;
@@ -36,4 +38,5 @@ public class Movement : MonoBehaviour
         rb.MovePosition(rb.position + moveVelocity * Time.fixedDeltaTime);
     }
 }
+
 
