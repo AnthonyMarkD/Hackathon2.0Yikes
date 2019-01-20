@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿/*
  * Movement script for player sprite. 
  * Code was created with aid from Blackthornprod's youtube page
